@@ -31,7 +31,7 @@ input:focus{
 }
 input.button{
     text-align:center;
-    color: #EEE;
+    color: #fff;
     background-color: rgb(104, 175, 104);
     font-weight: bold;
     font-family:'Times New Roman', Times, serif;
@@ -53,6 +53,16 @@ input.button:hover{
     background-color: rgb(241, 241, 241);
     width: 330px;
     height:420px;
+    margin-top:100px;
+    box-shadow: 0px 0px 20px 20px rgb(185, 184, 184);
+}
+.block2{
+    display:flex;
+    justify-content:center;
+    border-radius: 20px;
+    background-color: rgb(241, 241, 241);
+    width: 330px;
+    height:460px;
     margin-top:100px;
     box-shadow: 0px 0px 20px 20px rgb(185, 184, 184);
 }
