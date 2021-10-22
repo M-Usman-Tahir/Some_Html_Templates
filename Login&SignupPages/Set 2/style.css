@@ -51,20 +51,16 @@ input.button:hover{
     justify-content:center;
     border-radius: 20px;
     background-color: rgb(241, 241, 241);
-    width: 330px;
-    height:420px;
     margin-top:100px;
     box-shadow: 0px 0px 20px 20px rgb(185, 184, 184);
 }
-.block2{
-    display:flex;
-    justify-content:center;
-    border-radius: 20px;
-    background-color: rgb(241, 241, 241);
+.loginBlock{
+    width: 330px;
+    height:420px;
+}
+.signupBlock{
     width: 330px;
     height:460px;
-    margin-top:100px;
-    box-shadow: 0px 0px 20px 20px rgb(185, 184, 184);
 }
 .logo{
     width: 150px;
